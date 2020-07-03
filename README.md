@@ -1,6 +1,28 @@
-# vue-login
+# vue-login 项目说明
 
-> A Vue.js project
+### `前后端代码地址`
+
+后台服务地址：https://github.com/ranmaxli/springboot-login
+
+前端服务地址：https://github.com/ranmaxli/vue-login
+
+### `react项目搭建使用技术`
+
+vue-cli 脚手架
+
+axios Ajax请求
+
+element-ui  前端框架s
+
+修改confg/index.js proxyTable 解决后台接口跨域问题
+
+### `项目启动流程`
+
+npm install 安装依赖
+
+npm run dev 启动项目
+
+http://localhost:8000/ 访问地址
 
 ## Build Setup
 
