@@ -6,13 +6,13 @@
 
 前端服务地址：https://github.com/ranmaxli/vue-login
 
-### `react项目搭建使用技术`
+### `Vue项目搭建使用技术`
 
 vue-cli 脚手架
 
 axios Ajax请求
 
-element-ui  前端框架s
+element-ui  前端框架
 
 修改confg/index.js proxyTable 解决后台接口跨域问题
 
